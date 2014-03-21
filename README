@@ -1,0 +1,5 @@
+Using the bash script run.sh ============
+
+./run.sh <non_standard_file> <language>
+
+if you do not specify the source language then the toolkit will automatically detect the language

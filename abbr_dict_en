@@ -1,0 +1,450 @@
+(dp0
+S'nwt'
+p1
+S'new with tags'
+p2
+sS'l8r'
+p3
+S'later'
+p4
+sS'rtm'
+p5
+S'read the manual'
+p6
+sS'gg'
+p7
+S'good game'
+p8
+sS'gf'
+p9
+S'girl friend'
+p10
+sS'w<bbxyzy>'
+p11
+S'with'
+p12
+sS'bff'
+p13
+S'friends, forever!'
+p14
+sS'tx'
+p15
+S'thanks'
+p16
+sS'ty'
+p17
+S'thank you'
+p18
+sS'thnx'
+p19
+S'thanks'
+p20
+sS'ttyl'
+p21
+S'talk to you later'
+p22
+sS'bfn'
+p23
+S'bye for now'
+p24
+sS'wrt'
+p25
+S'with respect to'
+p26
+sS'ttyt'
+p27
+S'talk to you tomorrow'
+p28
+sS'4'
+p29
+S'for'
+p30
+sS'nwot'
+p31
+S'new without tags'
+p32
+sS'bout'
+p33
+S'about'
+p34
+sS'rsvp'
+p35
+S"respondez s'il vous plait - please reply"
+p36
+sS'bio'
+p37
+S'going for bio break'
+p38
+sS'fya'
+p39
+S'for your amusement'
+p40
+sS'dh'
+p41
+S'darling husband'
+p42
+sS'fyi'
+p43
+S'for your information'
+p44
+sS'fav'
+p45
+S'favourite'
+p46
+sS'da'
+p47
+S'the'
+p48
+sS'newaz'
+p49
+S'anyways'
+p50
+sS'ibtl'
+p51
+S'in before the lock'
+p52
+sS'rotfl'
+p53
+S'rolling on the floor laughing'
+p54
+sS'mof'
+p55
+S'matter of fact'
+p56
+sS'd'
+p57
+S'the'
+p58
+sS'rtfm'
+p59
+S'read the fucking manual'
+p60
+sS'yall'
+p61
+S'you all'
+p62
+sS'rotf'
+p63
+S'rolling on the floor'
+p64
+sS"y'all"
+p65
+S'you all'
+p66
+sS'btw'
+p67
+S'by the way'
+p68
+sS'2dai'
+p69
+S'today'
+p70
+sS'imho'
+p71
+S'in my humble opinion'
+p72
+sS'2day'
+p73
+S'today'
+p74
+sS'w<bbxyzzy>'
+p75
+S'with'
+p76
+sS'slm'
+p77
+S'see last mail'
+p78
+sS'onna'
+p79
+S'oh no, not again'
+p80
+sS'irl'
+p81
+S'in real life'
+p82
+sS'rl'
+p83
+S'real life'
+p84
+sS'bf'
+p85
+S'boy friend'
+p86
+sS'omg'
+p87
+S'oh my god'
+p88
+sS'asap'
+p89
+S'as soon as possible'
+p90
+sS'plz'
+p91
+S'please'
+p92
+sS'imnsho'
+p93
+S'in my not so humble opinion'
+p94
+sS'wtb'
+p95
+S'want to buy'
+p96
+sS'wt'
+p97
+S'thinking'
+p98
+sS'ntw'
+p99
+S'not to worry'
+p100
+sS'wtf'
+p101
+S'what the fuck'
+p102
+sS'wtg'
+p103
+S'way to go'
+p104
+sS'wth'
+p105
+S'what the hell'
+p106
+sS'asl'
+p107
+S'age sex location'
+p108
+sS'c'
+p109
+S'see'
+p110
+sS'pmsl'
+p111
+S'pissing myself laughing'
+p112
+sS'f2f'
+p113
+S'face to face'
+p114
+sS'roflmao'
+p115
+S'roll on floor laughing my ass off'
+p116
+sS'qft'
+p117
+S'quoted for truth'
+p118
+sS'k'
+p119
+S'ok'
+p120
+sS'o'
+p121
+S'oh really'
+p122
+sS'daym'
+p123
+S'damn'
+p124
+sS'idk'
+p125
+S"i don't know"
+p126
+sS'waddup'
+p127
+S"what's up"
+p128
+sS"b'day"
+p129
+S'birthday'
+p130
+sS'wtgp'
+p131
+S'want to go private?'
+p132
+sS'rofl'
+p133
+S'rolling on floor laughing'
+p134
+sS'lol'
+p135
+S'laughing out loud'
+p136
+sS'brb'
+p137
+S'be right back'
+p138
+sS'fmv'
+p139
+S'fair market value'
+p140
+sS'frm'
+p141
+S'from'
+p142
+sS'jam'
+p143
+S'just a minute'
+p144
+sS'morn'
+p145
+S'morning'
+p146
+sS'pm'
+p147
+S'personal message'
+p148
+sS'cya'
+p149
+S'see ya'
+p150
+sS'obtw'
+p151
+S'oh, by the way'
+p152
+sS'b'
+p153
+S'be'
+p154
+sS'lmao'
+p155
+S'laughing my ass off'
+p156
+sS'xoxoxo'
+p157
+S'kisses and hugs'
+p158
+sS'tnx'
+p159
+S'thanks'
+p160
+sS'n'
+p161
+S'and'
+p162
+sS'mt'
+p163
+S'mistell'
+p164
+sS'r'
+p165
+S'are'
+p166
+sS'w<bbxyzy>o'
+p167
+S'without'
+p168
+sS'v'
+p169
+S'we'
+p170
+sS'w<bbxyzy>e'
+p171
+S'whatever'
+p172
+sS'ohk'
+p173
+S'oh, okay'
+p174
+sS'neways'
+p175
+S'anyways'
+p176
+sS'nqa'
+p177
+S'no questions asked'
+p178
+sS'im'
+p179
+S"I'm"
+p180
+sS'w<bbxyzzy>o'
+p181
+S'without'
+p182
+sS'w<bbxyzzy>e'
+p183
+S'whatever'
+p184
+sS'q'
+p185
+S'question'
+p186
+sS'afk'
+p187
+S'away from keyboard'
+p188
+sS'nd'
+p189
+S'and'
+p190
+sS'ttfn'
+p191
+S'ta-ta for now'
+p192
+sS'TL'
+p193
+S'Timeline'
+p194
+sS'np'
+p195
+S'no problem'
+p196
+sS'roflas'
+p197
+S'rolling on floor laughing and screaming'
+p198
+sS'fr'
+p199
+S'for'
+p200
+sS'cul8r'
+p201
+S'see you later'
+p202
+sS'bday'
+p203
+S'birthday'
+p204
+sS'oic'
+p205
+S'oh, i see'
+p206
+sS'ssup'
+p207
+S"what's up"
+p208
+sS'thx'
+p209
+S'thanks'
+p210
+sS'kk'
+p211
+S'ok'
+p212
+sS'm'
+p213
+S'am'
+p214
+sS'lmho'
+p215
+S'laughing my head off'
+p216
+sS'tho'
+p217
+S'though'
+p218
+sS'u'
+p219
+S'you'
+p220
+sS'y'
+p221
+S'why'
+p222
+sS'ooak'
+p223
+S'one of a kind'
+p224
+s.
