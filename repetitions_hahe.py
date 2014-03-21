@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import sys 
+import sys  
 d=["ha","he","ho"]
 
 for line in sys.stdin.readlines():
